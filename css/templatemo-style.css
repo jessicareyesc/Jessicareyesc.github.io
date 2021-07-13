@@ -258,8 +258,88 @@ video::-webkit-media-controls {
 }
 
 
+/*
+
+
+*/
+
+.firstt-slide {
+  text-align: center;
+  background-color: #fff;
+  width: 100%;
+}
+
+.firstt-slide .heading h1 {
+  margin-top: 30px;
+  font-size: 38px;
+  text-transform: uppercase;
+  color: #fff;
+  font-weight: 900;
+  letter-spacing: 1px;
+}
+
+.firstt-slide .heading span {
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #4374B6;
+  font-weight: 300;
+  letter-spacing: 0.5px;
+}
+
+.firstt-slide img {
+  width: 100%;
+  overflow: hidden;
+}
+
+.firstt-slide .left-image {
+  padding-right: 0px!important;
+}
+
+.firstt-slide .left-image {
+  padding-left: 0px!important;
+}
+
+.firstt-slide .center-about-text {
+  text-align: left;
+  margin-left: 15px;
+  margin-right: 30px;
+}
+
+.firstt-slide .left-about-text h4 {
+  font-size: 19px;
+  color: #121212;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-top: 30px;
+  margin-bottom: 25px;
+}
+
+.firstt-slide .left-about-text .primary-button {
+  margin-top: 25px;
+}
+
+.firstt-slide .left-about-text {
+  text-align: left;
+  margin-left: 15px;
+  margin-left: 30px;
+}
+
+.firstt-slide .left-about-text h4 {
+  font-size: 19px;
+  color: #121212;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-top: 30px;
+  margin-bottom: 25px;
+}
+
+.firstt-slide .left-about-text .primary-button {
+  margin-top: 25px;
+}
+
 
 /*
+
 =======================
 ----- SECOND SLIDE ----
 =======================
